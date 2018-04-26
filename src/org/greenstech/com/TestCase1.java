@@ -6,6 +6,8 @@ public class TestCase1 {
 	{
 	System.out.println("i am programmer");
 	System.out.println("i am a java programmer");
+	System.out.println("i am android developer");
+	
 
 	}
 
